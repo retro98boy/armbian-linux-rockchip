@@ -139,6 +139,7 @@ dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3539-iotest-lpddr3-v10.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3539-test1-lp4x-v10.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3539-test2-ddr3-v10.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3562-dictpen-test3-v20.dtb
+dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3562-kickpi-k3b.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3562-evb1-lp4x-v10.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3562-evb1-lp4x-v10-linux.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3562-evb1-lp4x-v10-linux-amp.dtb
